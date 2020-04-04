@@ -1,2 +1,3 @@
 spark is in memory computation program
 It is lazily evaluated
+It is efficient operation
